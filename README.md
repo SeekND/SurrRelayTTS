@@ -1,6 +1,5 @@
-# SurrRelayTTS
+# This repository contains game code for Surrogate SDK in operating a game with relays (or a virtual keyboard) and TTS.
 
-This repository contains game code for Surrogate SDK in operating a game with relays (or a virtual keyboard) and TTS.
 
 
 What do you need:
@@ -24,5 +23,6 @@ How does it work:
 
 - Once configured and the game is available in Surrogate.tv when a player hits a predefined key in the game that will trigger your raspberry pi to action the command it's configured for, being that triggering a relay or pressing a key in your keyboard.
 - The capture card connected to your pc will relay the video and sound (if configured) present on your screen directly to the gane page.
+
 
 A full step by step video explanation on how to apply the code is available for my patreons in https://www.patreon.com/carlitouniverse
