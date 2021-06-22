@@ -18,6 +18,8 @@ The code:
 - The code available allows for 6 relays signals (or 6 contacts on a arduino beetle which you can use as a virtual keyboard) connected to Raspi pins: 19, 13, 6, 20, 16, 12
 - The code available also allows for two trigger buttons that will give win ( pin 26) or lose (pin 5)
 - Also available is code for the arduino beetle in order to trigger keypresses in your keyboard
+- If you wish to use TTS is a tool required called espeak which does not come with surrogate image. You will have to install it via this command: sudo apt update && sudo apt-get install espeak
+- You can change the sound volume with this command: alsamixer 
 
 How does it work:
 
