@@ -5,7 +5,7 @@
 What do you need:
 
 - Raspberry pi 3b (minimum)
-- Capture card and HDMI cable to connect to your PC(eg: https://www.amazon.co.uk/gp/product/B08FCFRRQT )
+- Capture card and HDMI cable to connect to your PC (eg: https://www.amazon.co.uk/gp/product/B08FCFRRQT ) or you can use a webcam instead if that is how your game is ran
 - Surrogate SDK imaged
 - Speaker (optional) (eg: https://www.amazon.co.uk/gp/product/B07QYFFNK5 )
 - Understanding on how programming works (specifically python)
